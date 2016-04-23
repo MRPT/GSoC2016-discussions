@@ -4,12 +4,11 @@ Each accepted project has its own "issue" ticket. Most of the daily discussion s
 
 ## Projects
 
-(To be announced) 
+* [PnP Algorithms toolkit for MRPT (By: Chandra)](https://github.com/MRPT/GSoC2016-discussions/issues/1)
+* [Design and developement of a full graph-based SLAM strategy in mrpt](https://github.com/MRPT/GSoC2016-discussions/issues/2)
+* [ROS packages for versatile RBPF-based SLAM](https://github.com/MRPT/GSoC2016-discussions/issues/3)
 
-1. XXXX
 
+## Timeline
 
-2. XXXX
- 
-3. XXXX
-
+* 
